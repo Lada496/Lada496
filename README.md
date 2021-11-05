@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Please visit my [Portfolio](https://yuko-a81009.netlify.app)
+Please visit my [Portfolio](https://yuko-c5e8fb.netlify.app/)
 
 ## Current work
 ### [Your-library](https://github.com/Lada496/your-library)
