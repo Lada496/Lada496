@@ -20,7 +20,7 @@ Please visit my [Portfolio](https://yuko-c5e8fb.netlify.app/)
 ### [Your-library](https://github.com/Lada496/your-library)
 * React, React Hooks, React Router, Material UI
 ### [To-to list](https://github.com/Lada496/to-do-list-with-auth-public)
-* React, React Hooks, React Router, Firebaes
+* React, React Hooks, React Router, Firebase
 
 ## Other information
 - 🌱 I’m currently learning **React**
