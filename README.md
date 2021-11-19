@@ -18,7 +18,7 @@ Please visit my [Portfolio](https://yuko-c5e8fb.netlify.app/)
 
 ## Current work
 ### [Your photo Album](https://github.com/Lada496/your-photo-album)
-* React, React Hooks, React Router, Bootstrap
+* React, React Hooks, React Router, Firebase, Bootstrap
 ### [Perfect Numbers](https://github.com/Lada496/perfect-numbers)
 * TypeScript, React, React Hooks, Sass
 ### [Your library](https://github.com/Lada496/your-library)
