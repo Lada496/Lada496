@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 Please visit my [Portfolio](https://yuko-c5e8fb.netlify.app/)
 
 ## Current work
-### [Your-library](https://github.com/Lada496/your-library)
+### [Your photo Album](https://github.com/Lada496/your-photo-album)
+* React, React Hooks, React Router, Bootstrap
+### [Perfect Numbers](https://github.com/Lada496/perfect-numbers)
+* TypeScript, React, React Hooks, Sass
+### [Your library](https://github.com/Lada496/your-library)
 * React, React Hooks, React Router, Material UI
 ### [To-to list](https://github.com/Lada496/to-do-list-with-auth-public)
 * React, React Hooks, React Router, Firebase
