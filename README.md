@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 
 ### Current work:
+* [Your Dairy](https://github.com/Lada496/mern-blog): React, React Router, Context API, Node.js, Express, MongoDB, Mongoose, Tailwind CSS, Heroku
+* [Clone Udemy](https://github.com/Lada496/clone-udemy): React, Material UI, Styled-component
 * [BenLya (e-commerce website)](https://github.com/Lada496/benlya): React, Next.js, React Hook, Redux, Semantic UI React, styled-component
-* [Your photo Album](https://github.com/Lada496/your-photo-album): React, React Hooks, React Router, Firebase, Bootstrap
-* [Perfect Numbers](https://github.com/Lada496/perfect-numbers): TypeScript, React, React Hooks, Sass
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
