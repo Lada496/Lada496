@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 * [Clone Udemy](https://github.com/Lada496/clone-udemy): React, Material UI, Styled-component
 * [BenLya (e-commerce website)](https://github.com/Lada496/benlya): React, Next.js, React Hook, Redux, Semantic UI React, styled-component
 
+### My Book Shelf
+- [The Pragmatic Programmer](https://www.amazon.ca/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=sr_1_1?gclid=Cj0KCQiAsoycBhC6ARIsAPPbeLuQE22NLUboOrxTCTkCDffsW7NJgnjxrnFf-UxYJ2Z4Rd2UcO9aVLwaAodVEALw_wcB&hvadid=231002866512&hvdev=c&hvlocphy=9001551&hvnetw=g&hvqmt=e&hvrand=10627164096722577778&hvtargid=kwd-302199567278&hydadcr=23310_10308556&keywords=the+pragmatic+programmer&qid=1669617040&qu=eyJxc2MiOiIxLjMwIiwicXNhIjoiMC42OSIsInFzcCI6IjAuNjgifQ%3D%3D&sr=8-1) ([Skimming note](https://www.notion.so/Skimming-Note-The-Pragmatic-Programmer-acacbd4102c042db8b00de539cd4b5d7))
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuko-murayama-828705211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuko-murayama-828705211" height="30" width="40" /></a>
