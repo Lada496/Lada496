@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Yuko</h1>
 <h3>A passionate frontend developer from Japan</h3>
 
-- 🌱 I’m currently learning **Web development at CICCC**
+- 🌱 I’m currently working at **[Critical Mass](https://www.criticalmass.com)** as a frontend developer
 
 - 👨‍💻 All of my projects are available at [https://yuko-c5e8fb.netlify.app](https://yuko-c5e8fb.netlify.app)
 
