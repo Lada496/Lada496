@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 
 
 ### Current work:
-* [Your Dairy](https://github.com/Lada496/mern-blog): React, React Router, Context API, Node.js, Express, MongoDB, Mongoose, Tailwind CSS, Heroku
-* [Clone Udemy](https://github.com/Lada496/clone-udemy): React, Material UI, Styled-component
-* [BenLya (e-commerce website)](https://github.com/Lada496/benlya): React, Next.js, React Hook, Redux, Semantic UI React, styled-component
+* [BenLya (e-commerce website)](https://github.com/Lada496/benlya): Next.js (App Router), RTK Query, Semantic UI React, styled-component
+* [Star Wars List](https://github.com/Lada496/star-wars-list): TypeScript, React, RTK Query, React Testing Library, Chakra UI
+* [My T3 Twitter Lite](https://github.com/Lada496/my-t3-twitter-lite): TypeScript, Next.js, tRPC, Tailwind CSS
 
 ### My Book Shelf
 - [The Pragmatic Programmer](https://www.amazon.ca/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=sr_1_1?gclid=Cj0KCQiAsoycBhC6ARIsAPPbeLuQE22NLUboOrxTCTkCDffsW7NJgnjxrnFf-UxYJ2Z4Rd2UcO9aVLwaAodVEALw_wcB&hvadid=231002866512&hvdev=c&hvlocphy=9001551&hvnetw=g&hvqmt=e&hvrand=10627164096722577778&hvtargid=kwd-302199567278&hydadcr=23310_10308556&keywords=the+pragmatic+programmer&qid=1669617040&qu=eyJxc2MiOiIxLjMwIiwicXNhIjoiMC42OSIsInFzcCI6IjAuNjgifQ%3D%3D&sr=8-1) ([Skimming note](https://www.notion.so/Skimming-Note-The-Pragmatic-Programmer-acacbd4102c042db8b00de539cd4b5d7))
+- [Learning TypeScript](https://www.amazon.ca/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=asc_df_1098110331/?tag=googleshopc0c-20&linkCode=df0&hvadid=578919340205&hvpos=&hvnetw=g&hvrand=619421836911817964&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001551&hvtargid=pla-1649289693001&psc=1)([Skimming note](https://www.notion.so/Skimming-Note-Learning-TypeScript-f54082bb76c741c7aa2fc24530768be4?pvs=4))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
