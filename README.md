@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently working at **[Critical Mass](https://www.criticalmass.com)** as a frontend developer<br><br>
+- 🌱 I’m currently studying Computer Science at **[UBC](https://www.ubc.ca/)** <br><br>
 - 👨‍💻 All of my projects are available at [https://yuko-c5e8fb.netlify.app](https://yuko-c5e8fb.netlify.app)<br><br>
 - ⚡ Fun fact: **Lada** is my favorite ballet dancer's name and **496** is my favorite 3 digits number
 
